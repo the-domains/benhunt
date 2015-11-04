@@ -6,17 +6,17 @@ inLanguage: null
 starred: true
 keywords: []
 description: Just some random thoughts.
-datePublished: '2015-11-04T19:35:28.695Z'
-dateModified: '2015-11-04T19:32:23.945Z'
+datePublished: '2015-11-04T19:44:43.084Z'
+dateModified: '2015-11-04T19:44:34.943Z'
 title: First Grid Experience
+sourcePath: _posts/2015-11-04-first-grid-experience.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-04-first-grid-experience.md
-published: true
 url: first-grid-experience/index.html
 _type: Article
 
