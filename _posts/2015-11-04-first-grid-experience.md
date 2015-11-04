@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Just some random thoughts.
-datePublished: '2015-11-04T19:44:43.084Z'
-dateModified: '2015-11-04T19:44:34.943Z'
+datePublished: '2015-11-04T19:55:54.664Z'
+dateModified: '2015-11-04T19:55:51.159Z'
 title: First Grid Experience
 sourcePath: _posts/2015-11-04-first-grid-experience.md
 published: true
