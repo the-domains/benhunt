@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ben Hunt, Marketing Strategist]]></title>
         <description><![CDATA[Ben Hunt, Marketing Strategist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benhunt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 19:35:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 19:41:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benhunt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Grid Experience]]></title>
             <description><![CDATA[<article><h1>First Grid Experience</h1><p>Just some random thoughts.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1f033b0-f643-4340-94c7-fb80001f2b91.jpg"></article>]]></description>
-            <link>undefinedfirst-grid-experience/index.html</link>
+            <link>https://thegrid.ai/benhunt/first-grid-experience/index.html</link>
             <guid isPermaLink="false">43ab73de-a98e-4dcb-befb-3944c8984e62</guid>
             <pubDate>Wed, 04 Nov 2015 19:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eb2d11d-74fc-43f6-af2c-6b8513d6f0dc.jpg">]]></description>
+            <link>https://thegrid.ai/benhunt/ed44ee3e-2c93-44e7-8263-c392abae4811/index.html</link>
+            <guid isPermaLink="false">ed44ee3e-2c93-44e7-8263-c392abae4811</guid>
+            <pubDate>Wed, 04 Nov 2015 19:41:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
