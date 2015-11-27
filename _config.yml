@@ -1,7 +1,7 @@
 name: BenHunt
 favicon: null
-layout_spectrum: 0.04217129782773554
-typography_spectrum: 0.87692
+layout_spectrum: 0.99876
+typography_spectrum: 0.87024
 title: 'Ben Hunt, Marketing Strategist'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#050908'
-    - '#bda28d'
-    - '#646055'
-    - '#5f0b12'
-  brandStrength: 0.125
-  lightness: 0.6875
-  saturation: 0.2150110227521509
-  rhythmicContrast: 0.25
+    - '#121f05'
+    - '#f0ece3'
+    - '#77c0fa'
+    - '#4e5f13'
+    - '#5b738c'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
