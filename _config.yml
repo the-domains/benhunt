@@ -1,7 +1,7 @@
 name: BenHunt
 favicon: null
 layout_spectrum: 0.04217129782773554
-typography_spectrum: 0.24587359139695764
+typography_spectrum: 0.87692
 title: 'Ben Hunt, Marketing Strategist'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#bda28d'
     - '#646055'
     - '#5f0b12'
-  brandStrength: 0.25
-  lightness: 0.1774653505999595
+  brandStrength: 0.125
+  lightness: 0.6875
   saturation: 0.2150110227521509
-  rhythmicContrast: 0.39876856096088886
+  rhythmicContrast: 0.25
 purpose: []
