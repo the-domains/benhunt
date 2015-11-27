@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ben Hunt, Marketing Strategist]]></title>
+        <description><![CDATA[Ben Hunt, Marketing Strategist]]></description>
+        <link>https://thegrid.ai/benhunt/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 16:05:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benhunt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Frustrations with "The Grid"</p>]]></description>
+            <link>https://thegrid.ai/benhunt/21422b1a-e849-42c8-a540-b09f6a669f48/index.html</link>
+            <guid isPermaLink="false">21422b1a-e849-42c8-a540-b09f6a669f48</guid>
+            <pubDate>Fri, 27 Nov 2015 16:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Grid Experience]]></title>
+            <description><![CDATA[<article><h1>First Grid Experience</h1><p>Just some random thoughts.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1f033b0-f643-4340-94c7-fb80001f2b91.jpg"></article>]]></description>
+            <link>https://thegrid.ai/benhunt/first-grid-experience/index.html</link>
+            <guid isPermaLink="false">43ab73de-a98e-4dcb-befb-3944c8984e62</guid>
+            <pubDate>Wed, 04 Nov 2015 19:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pack at Our Beach]]></title>
+            <description><![CDATA[<article><h1>The Pack at Our Beach</h1><p>This is the description. Short, isn't it?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eb2d11d-74fc-43f6-af2c-6b8513d6f0dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/benhunt/ed44ee3e-2c93-44e7-8263-c392abae4811/index.html</link>
+            <guid isPermaLink="false">ed44ee3e-2c93-44e7-8263-c392abae4811</guid>
+            <pubDate>Thu, 05 Nov 2015 11:49:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
